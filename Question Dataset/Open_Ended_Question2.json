@@ -1,0 +1,184 @@
+[
+  {
+    "id": 35,
+    "question": "Is there any student wearing a mask?",
+    "answer": "Yes",
+    "type": "OD",
+    "description": "There is one student wearing a mask."
+  },
+  {
+    "id": 36,
+    "question": "Is there any student eating or drinking in the classroom?",
+    "answer": "No",
+    "type": "OD",
+    "description": "There are no students eating or drinking in the classroom."
+  },
+  {
+    "id": 37,
+    "question": "Is the lecturer using any tools to teach?",
+    "answer": "Yes",
+    "type": "OD",
+    "description": "He is using a microphone."
+  },
+  {
+    "id": 38,
+    "question": "Are there any students raising their hands to speak?",
+    "answer": "No",
+    "type": "OD",
+    "description": "There are no students raising their hands."
+  },
+  {
+    "id": 39,
+    "question": "Are there any students using their phones?",
+    "answer": "No",
+    "type": "OD",
+    "description": "there are no students using a phone in the image."
+  },
+  {
+    "id": 40,
+    "question": "Is there any desk without a student?",
+    "answer": "Yes",
+    "type": "OD",
+    "description": "there is one desk without a student."
+  },
+  {
+    "id": 41,
+    "question": "What are the students doing together in this classroom",
+    "answer": "Studying",
+    "type": "Action recog",
+    "description": "Students are studying in the video, they likely to attending a lecture"
+  },
+  {
+    "id": 42,
+    "question": "What is each of the two students at the third table in the rightmost row doing individually?",
+    "answer": "Looking at the document and focusing on the board",
+    "type": "Action recog",
+    "description": "The student on the left Looking at the document and the student on the right  focusing on the board"
+  },
+  {
+    "id": 43,
+    "question": "What is the lecturer doing?",
+    "answer": "Teaching",
+    "type": "Action recog",
+    "description": "The lecturer is teaching students"
+  },
+  {
+    "id": 44,
+    "question": "What activities is the student sitting at the first table in the left half of the front row doing?",
+    "answer": "Using a laptop",
+    "type": "Action recog",
+    "description": "The students sitting in the left half of the front row using a laptop"
+  },
+  {
+    "id": 45,
+    "question": "What is the change in the action of the girl touching the laptop at the first table from the front?",
+    "answer": "First, she looks at the laptop, then she focuses on the screen, and after that, she looks back at the laptop.",
+    "type": "Action recog",
+    "description": ""
+  },
+  {
+    "id": 46,
+    "question": "What is the girl wearing a black shirt at the third table on the right side doing?",
+    "answer": "Listening, observing, thinking",
+    "type": "Action recog",
+    "description": "The girl in the black shirt appears to be quietly observing and thinking. With her hand resting on her head, she seems focused and reflective, though not actively using any materials."
+  },
+  {
+    "id": 47,
+    "question": "Are the students more engaged with digital devices or paper materials?",
+    "answer": "Yes, most of them are using laptops, while some are using physical materials.",
+    "type": "Action recog",
+    "description": "Most students are focused on laptops, showing greater engagement with digital devices than paper materials."
+  },
+  {
+    "id": 48,
+    "question": "Are there any signs that students are bored or disengaged?",
+    "answer": "Some students show signs of boredom or disengagement",
+    "type": "Action recog",
+    "description": "Engagement levels vary; some students appear distracted, while others stay focused on their tasks."
+  },
+  {
+    "id": 49,
+    "question": "What is the student wearing a mask doing?",
+    "answer": "Looking at the laptop",
+    "type": "Action recog",
+    "description": "The masked student is quietly focused on their laptop, showing passive engagement and minimal interaction."
+  },
+  {
+    "id": 50,
+    "question": "Describe any eating or drinking behavior among the students",
+    "answer": "No eating or drinking in class",
+    "type": "Action recog",
+    "description": "No students are seen eating or drinking; all appear focused on academic tasks"
+  },
+  {
+    "id": 51,
+    "question": "Why is the student at the front desk on the right putting her hands under the desk?",
+    "answer": "using a phone",
+    "type": "Reasoning",
+    "description": "Based on this student’s behavior, it is likely that she is using a phone which is obscured by the corner of the desk."
+  },
+  {
+    "id": 52,
+    "question": "How is the student sitting alone probably doing?",
+    "answer": "Looking at the laptop",
+    "type": "Reasoning",
+    "description": "the student sitting alone seems to be focusing on something on the laptop."
+  },
+  {
+    "id": 53,
+    "question": "What will the student sitting alone do after looking at the computer?",
+    "answer": "Looking around class and then focusing on the board",
+    "type": "Reasoning",
+    "description": "the student will looking around and then focusing on the board, "
+  },
+  {
+    "id": 54,
+    "question": "Why does this classroom have so many computers?",
+    "answer": "to work or programming assignments",
+    "type": "Reasoning",
+    "description": "Perhaps the students need computers to work on programming assignments."
+  },
+  {
+    "id": 55,
+    "question": "Why is there no one sitting at the last desk on the left side of the classroom?",
+    "answer": "too far from the board ",
+    "type": "Reasoning",
+    "description": "It could be because the desk is too far from the board, making it harder for students to learn effectively."
+  },
+  {
+    "id": 56,
+    "question": "Why are there so few students sitting in the front row?",
+    "answer": "so close to the board",
+    "type": "Reasoning",
+    "description": "It could be because the front row is so close to the board that it makes it harder for students to observe."
+  },
+  {
+    "id": 57,
+    "question": "Why do students tend to look at their computers more while the lecturer is teaching?",
+    "answer": "solving the problem the lecturer is presenting ",
+    "type": "Reasoning",
+    "description": "It might be because the students are working on solving the problem the lecturer is presenting while listening to the lecture at the same time."
+  },
+  {
+    "id": 58,
+    "question": "Why does the lecturer use body language while teaching?",
+    "answer": "to enhance the lecture",
+    "type": "Reasoning",
+    "description": "Using body language helps students concentrate better on the lesson and makes the lecture feel less monotonous."
+  },
+  {
+    "id": 59,
+    "question": "Why is the student sitting at the second desk, right behind the student with the pink water bottle, holding a pen in their mouth?",
+    "answer": "facing a difficult exercise",
+    "type": "Reasoning",
+    "description": "It might be because that student is facing a difficult exercise and hasn’t found a solution yet"
+  },
+  {
+    "id": 60,
+    "question": "Why are the students at the second desk on the right side of the classroom laughing at the end of the video?",
+    "answer": "the lecture was engaging or the lecturer told a joke",
+    "type": "Reasoning",
+    "description": "It could be that the lecture was engaging or that the lecturer told a joke that made the students laugh."
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "STT",
+    "question": "Question",
+    "options": {
+      "A": "A",
+      "B": "B"
+    },
+    "answer": "Answer"
+  },
+  {
+    "id": 1,
+    "question": "Are all student using computer at the same time?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "NO"
+  },
+  {
+    "id": 2,
+    "question": "Are the two students sitting in the first row wearing black shirts?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 3,
+    "question": "Are there more than 10 students in the class?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 4,
+    "question": "Are there three students sitting at the second table from the front in the leftmost row?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 5,
+    "question": "Is the lecturer holding a microphone?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 6,
+    "question": "Are there 3 computers at the second table from the front in the leftmost row?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "NO"
+  },
+  {
+    "id": 7,
+    "question": "Is there any phone in the video?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 8,
+    "question": "Is the boy sitting at the first table from the front in leftmost row using a computer?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 9,
+    "question": "Is there at least one student at the last table in the leftmost row looking at the board?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 10,
+    "question": "Is there any document in the classroom?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 11,
+    "question": "Are there more computers than students in the class?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "NO"
+  },
+  {
+    "id": 12,
+    "question": "Are all the students in the class using laptops?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "NO"
+  },
+  {
+    "id": 13,
+    "question": "Is the classroom bright?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 14,
+    "question": "Is there a student wearing glasses?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 15,
+    "question": "Are all the students looking at the board or the lecturer at the same time?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "NO"
+  },
+  {
+    "id": 16,
+    "question": "Are there exactly 21 students in the class?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "NO"
+  },
+  {
+    "id": 17,
+    "question": "Are all the laptops being used at the same time?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "NO"
+  },
+  {
+    "id": 18,
+    "question": "Does the number of girls outweigh that of boys?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  },
+  {
+    "id": 19,
+    "question": "Is anyone drinking water?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "NO"
+  },
+  {
+    "id": 20,
+    "question": "Are there four chairs at the first table from the front in the leftmost row?",
+    "options": {
+      "A": "YES",
+      "B": "NO"
+    },
+    "answer": "YES"
+  }
+]

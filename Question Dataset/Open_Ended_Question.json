@@ -1,0 +1,240 @@
+[
+  {
+    "id": "STT",
+    "question": "Question",
+    "answer": "Answer",
+    "type": "Type",
+    "description": "Description"
+  },
+  {
+    "id": 1,
+    "question": "Who are the people in the video?",
+    "answer": "Students and lecturer",
+    "type": "spatial",
+    "description": "This video captures a class session including students and the lecturer"
+  },
+  {
+    "id": 2,
+    "question": "What is there on the first desk on the left side of the classroom?",
+    "answer": "Laptop",
+    "type": "spatial",
+    "description": "There is a laptop  on the first desk on the left side of the classroom"
+  },
+  {
+    "id": 3,
+    "question": "Who is the person walking around the classroom? ",
+    "answer": "lecturer",
+    "type": "spatial",
+    "description": "the lecturer walking around the classroom to present to the students"
+  },
+  {
+    "id": 4,
+    "question": "Who is sitting in the front row, closest to the lecturer?",
+    "answer": "the student in a black shirt with a pink water bottle",
+    "type": "spatial",
+    "description": "the student in a black shirt with a pink water bottle, using a computer"
+  },
+  {
+    "id": 5,
+    "question": "Where is the student sitting alone?",
+    "answer": "in the front row",
+    "type": "spatial",
+    "description": "the student sitting at the front of the row on the right side near the classroom door"
+  },
+  {
+    "id": 6,
+    "question": "Where is the student in black, sitting with her hand on her head? ",
+    "answer": "in the front row, closest to the teacher",
+    "type": "spatial",
+    "description": "the student sitting at the front of the row on the left side of the classroom, closest to the teacher"
+  },
+  {
+    "id": 7,
+    "question": "How many students are sitting at the second table from the front in the rightmost row?",
+    "answer": "4 students",
+    "type": "spatial",
+    "description": "there are 4 studdents sitting in the second row"
+  },
+  {
+    "id": 8,
+    "question": "Where is the student wearing a mask sitting?",
+    "answer": "the fourth table from the front in the rightmost row",
+    "type": "spatial",
+    "description": "the student in black using a silver laptop in the fouth desk"
+  },
+  {
+    "id": 9,
+    "question": "Where is the lecturer?",
+    "answer": "stand at the front of the classroom",
+    "type": "spatial",
+    "description": "the lecturer is standing at the front of the classroom, giving a lecture"
+  },
+  {
+    "id": 10,
+    "question": "How many students are sitting behind the student who is sitting alone?",
+    "answer": "the three students behind him",
+    "type": "spatial",
+    "description": "Two students in white and one student in beige are sitting behind the student who is sitting alone"
+  },
+  {
+    "id": 11,
+    "question": "Is the boy sitting at the first table in the leftmost row using a laptop?",
+    "answer": "Yes",
+    "type": "Factual",
+    "description": "A boy sitting at the first table in the leftmost row using a laptop"
+  },
+  {
+    "id": 12,
+    "question": "Is the color of the laptop at the first table in the leftmost row white?",
+    "answer": "No",
+    "type": "Factual",
+    "description": "There is a black laptop at the first table in the leftmost row"
+  },
+  {
+    "id": 13,
+    "question": "Is the lecturer holding a microphone?",
+    "answer": "Yes",
+    "type": "Factual",
+    "description": "The lecturer is holding a microphone"
+  },
+  {
+    "id": 14,
+    "question": "Are the two girls sitting at the first table in the rightmost row looking at their documents?",
+    "answer": "No",
+    "type": "Factual",
+    "description": "Both girl is looking at their laptops"
+  },
+  {
+    "id": 15,
+    "question": "Are there more than three students at last table from the front in the rightmost row?",
+    "answer": "Yes",
+    "type": "Factual",
+    "description": "There are four students at last table from the front in the rightmost row?"
+  },
+  {
+    "id": 16,
+    "question": "Are any students wearing masks in this classroom",
+    "answer": "Yes",
+    "type": "Factual",
+    "description": "There is a student wearing masks at last table from the front in the rightmost row"
+  },
+  {
+    "id": 17,
+    "question": "Is there anyone wearing glasses in the class",
+    "answer": "Yes",
+    "type": "Factual",
+    "description": "There are a few people in the class wearing glasses"
+  },
+  {
+    "id": 18,
+    "question": "Is there a phone at the second table from the front in the rightmost row?",
+    "answer": "Yes",
+    "type": "Factual",
+    "description": "There is a phone at the second table from the front in the rightmost row? "
+  },
+  {
+    "id": 19,
+    "question": "Are there more boys in the class than girls?",
+    "answer": "No",
+    "type": "Factual",
+    "description": "There are more girls in the class than boys"
+  },
+  {
+    "id": 20,
+    "question": "Are there at least two students in the class looking at documents?",
+    "answer": "Yes",
+    "type": "Factual",
+    "description": "There are more than two students in the class looking at documents"
+  },
+  {
+    "id": 21,
+    "question": "How many students are sitting in the class?",
+    "answer": 24,
+    "type": "Counting",
+    "description": "There are 24 students are sitting in the class"
+  },
+  {
+    "id": 22,
+    "question": "How many laptops at the second table from the front in the leftmost row?",
+    "answer": 2,
+    "type": "Counting",
+    "description": "There are 2 laptops at the second table from the front in the leftmost row"
+  },
+  {
+    "id": 23,
+    "question": "How many bottles of water are there in the videos?",
+    "answer": 4,
+    "type": "Counting",
+    "description": "There are 4 bottles of water are there in the videos"
+  },
+  {
+    "id": 24,
+    "question": "How many students are sitting in the leftmost row?",
+    "answer": 12,
+    "type": "Counting",
+    "description": "There are 12 students are sitting in the leftmost row"
+  },
+  {
+    "id": 25,
+    "question": "How many students are wearing black shirts in the rightmost row?",
+    "answer": 7,
+    "type": "Counting",
+    "description": "There are 7 students are wearing black shirts in the rightmost row?"
+  },
+  {
+    "id": 26,
+    "question": "How many rows of tables are there in the class in the leftmost row?",
+    "answer": 4,
+    "type": "Counting",
+    "description": "There are 4 rows of table in the class"
+  },
+  {
+    "id": 27,
+    "question": "How many students at the second table in the rightmost row are looking at documents?",
+    "answer": 2,
+    "type": "Counting",
+    "description": "There are 2  students at the second table in the rightmost row are looking at documents"
+  },
+  {
+    "id": 28,
+    "question": "How many bags are on the floor?",
+    "answer": 1,
+    "type": "Counting",
+    "description": "There is 1 bags are on the floor"
+  },
+  {
+    "id": 29,
+    "question": "How many students are wearing masks in this classroom?",
+    "answer": 1,
+    "type": "Counting",
+    "description": "There is 1 wearing masks in this classroom?"
+  },
+  {
+    "id": 30,
+    "question": "How many laptops and tablets are there in the class?",
+    "answer": 20,
+    "type": "Counting",
+    "description": "There are 20 laptops and tablets in the class"
+  },
+  {
+    "id": 31,
+    "question": "What is the student sitting alone doing?",
+    "answer": "using the laptop",
+    "type": "OD",
+    "description": "He is using the laptop to read documents or for entertainment."
+  },
+  {
+    "id": 32,
+    "question": "How many students are there in the classroom?",
+    "answer": 24,
+    "type": "OD",
+    "description": "There are 24 students are sitting in the class"
+  },
+  {
+    "id": 33,
+    "question": "Is there a whiteboard in the classroom?",
+    "answer": "No",
+    "type": "OD",
+    "description": "I don’t see a whiteboard in the image. It may be hidden because of the camera angle."
+  }
+]
