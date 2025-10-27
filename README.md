@@ -19,7 +19,7 @@ The repository contains the dataset split into common machine learning partition
 - `train/` — training images and its COCO-format annotation file `_annotations.coco.json`.
 - `valid/` — validation images and its COCO-format annotation file `_annotations.coco.json`.
 - `test/` — test images and its COCO-format annotation file `_annotations.coco.json`.
-- `Question Dataset/` — supplemental JSON files intended for open-ended and single-choice VQA-style tasks (for example `Open_Ended_Question.json`, `Single_Choice_Question.json`, etc.).
+`Question Dataset/` — supplemental JSON files intended for open-ended and single-choice VQA-style tasks (for example `Open_Ended_Question.json`, `Single_Choice_Question.json`, etc.).
 
 Each `_annotations.coco.json` file follows the COCO annotation format: images, annotations (bounding boxes, category ids), and categories. Use standard COCO tools for parsing and evaluation.
 
