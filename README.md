@@ -14,7 +14,7 @@ Researchers can use this dataset to benchmark algorithms for automatic classroom
 
 ### Contents and structure
 
-The repository contains the dataset split into common machine learning partitions and supporting annotation files. At the top level you will find:
+The repository contains the dataset split into common machine learning partitions and supporting annotation files. At the `Dataset for Detection/` you will find:
 
 - `train/` — training images and its COCO-format annotation file `_annotations.coco.json`.
 - `valid/` — validation images and its COCO-format annotation file `_annotations.coco.json`.
